@@ -8,11 +8,13 @@
 
 The eleventh edition of the Encyclopædia Britannica, with three further volumes published in 1922, to make the twelfth edition. 
 
-Adapted as an electronic dictionary for dictionary software such as <a href="http://www.goldendict.org/">Goldendict</a>. 
+Adapted as an electronic dictionary for dictionary software such as <a href="http://www.goldendict.org/">Goldendict</a> or <a href="https://github.com/huzheng001/stardict-3">Stardict</a>. 
 
 Images have been omitted for size, but can be viewed by links.  
 
 Articles of the eleventh edition are mostly proofread at compilation of this dictionary (on 9th March 2024) by the Wikisource project, but not articles of the newer volumes, which are marked at the bottom.  
+
+Please see the <a href="https://github.com/lxs602/1911-and-1922-Encyclopaedia-Britannica/blob/main/Disclaimer.md">disclaimer</a>.
 
 <h4>Acknowledgements</h4>
 <a href="https://en.wikisource.org/wiki/Wikisource:WikiProject_1911_Encyclop%C3%A6dia_Britannica">wikisource.org project</a> - optical character recognition, hosting and proofreading.
